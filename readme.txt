@@ -6,3 +6,4 @@ my stupid boss still prefers SVN
 creating a new branch is quickly
 modify file on branch master
 creating a new branch is quick and simple
+creat dev branch test --no--ff style command
